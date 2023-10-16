@@ -2,7 +2,7 @@
 * [Descripción general](#Descripcion)
 * [Integrantes](#integrantes)
 * [Instalación](#Instalación)
-* [Documentacion](Documentation\Index.md)
+* [Documentacion](https://github.com/NewtonGomez/HeartChain/blob/main/Documentation/Index.md)
 
 <a id="Descripcion"></a>
 ## Proyecto de Salud Descentralizada con ECG Inteligente

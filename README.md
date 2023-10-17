@@ -1,7 +1,6 @@
 # HeartChain
 * [Descripción general](#Descripcion)
 * [Integrantes](#integrantes)
-* [Instalación](#Instalación)
 * [Documentacion](https://github.com/NewtonGomez/HeartChain/blob/main/Documentation/Index.md)
 
 <a id="Descripcion"></a>

@@ -8,7 +8,7 @@
 <a id="learn"></a>
 ## Aprende
 
- [Como Funciona el Blockchain]()
+ [Como Funciona el Blockchain](blockchain.md)
 
  [Como Funciona el Aprendizaje Automático]()
 
@@ -24,15 +24,15 @@ Esta algo vacio por aqui...
 
 1. Clona este repositorio en tu computador.
 2. Crea un entorno virtual.
-    ```pip
+    ```bash
     python -m venv env
     ```
 3. Si no tienes instalado el creador de entorno virtual de python
-    ```pip
+    ```bash
     python -m pip install virtualenv
     ```
 4. Instala las dependecias con el archivo 'requirements.txt'
-    ```
+    ```bash
     python -m pip install -r requirements.txt
     ```
 
@@ -44,9 +44,9 @@ Esta algo vacio por aqui...
 
 [Nuevo Reporte de Bug]()
 
-[Contribución de Código]()
+[Contribución de Código](howToPR.md)
 
-[Contribución de Documentación]()
+[Contribución de Documentación](howToPR.md)
 
 <a id="contribute"></a>
 ## Políticas y directrices

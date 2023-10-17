@@ -42,26 +42,26 @@ Esta algo vacio por aqui...
 
 [Solicitud de Nueva Caracteristica]()
 
-[Nuevo Reporte de Bug]()
+[Nuevo Reporte de Bug](internal/bugs.md)
 
-[Contribución de Código](howToPR.md)
+[Contribución de Código](internal/howToPR.md)
 
-[Contribución de Documentación](howToPR.md)
+[Contribución de Documentación](internal/howToPR.md)
 
 <a id="contribute"></a>
 ## Políticas y directrices
 
 ### Code
- [Lineamientos de Codificación]()
+ [Lineamientos de Codificación](internal/branches.md)
 
- [Lineamientos de Pull Request]()
+ [Lineamientos de Pull Request](internal/lineamientos_pr.md)
 
  [Testing]()
 
  ### Documentación
 
- [Escribe Nueva Documentación]()
+ [Escribe Nueva Documentación](internal/newDoc.md)
 
- [Estilo de Escritura de la Documentación]()
+ [Estilo de Escritura de la Documentación](internal/howtomd.md)
 
  [Licencias](license.md)

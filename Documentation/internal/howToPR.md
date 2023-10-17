@@ -34,6 +34,7 @@ git add <archivos_modificados>
 
 Confirma tus cambios con un mensaje descriptivo. Esto guarda tus cambios localmente.
 
+Si tienes duda sobre como nombrar tus commits, entra a este [archivo](howtocommit.md)
 ```bash
 git commit -m "Añadida una nueva funcionalidad"
 ```

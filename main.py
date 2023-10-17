@@ -1,7 +1,6 @@
 from datetime import datetime
 from json import dumps
 from hashlib import sha256 #
-from time import sleep
 class Block():
     # Cada bloque contiene información como índice, prueba de trabajo, 
     # señal ECG, sello de tiempo y hash anterior. Al crear una instancia 

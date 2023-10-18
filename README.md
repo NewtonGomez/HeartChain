@@ -15,7 +15,10 @@ Este enfoque no solo pone en manos de las personas el control de sus propios dat
 <a id="integrantes"></a>
 ## Integrantes
 
-* [ENRIQUE ANAEL GÓMEZ LINARES](https://github.com/NewtonGomez) ->  LIDER DE PROYECTO
+* [ENRIQUE ANAEL GÓMEZ LINARES](https://github.com/NewtonGomez)  -> LIDER DE PROYECTO
 
 * [JORGE EDUARDO GARCIA AGUILERA](https://github.com/Jorge02342) -> HACKER
 
+* [JUAN PABLO LOPEZ VAZQUEZ](https://github.com/SteamedSloth655) -> HACKER
+
+* [EMMANUEL OLIVA AVELAR](https://github.com/EmmanuelOliva) -> HACKER

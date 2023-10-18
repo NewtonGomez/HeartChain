@@ -12,6 +12,8 @@
 
  [Como Funciona el Aprendizaje Automático]()
 
+ [Enfermedades a analizar](diseases.md)
+
  [FAQ's]()
 
 <a id="releases"></a>

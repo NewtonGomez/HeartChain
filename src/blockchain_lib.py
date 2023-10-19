@@ -1,6 +1,5 @@
 from datetime import datetime
 from json import dumps
-from terminal_text_color import text_color
 from hashlib import sha256 #
 class Block():
     # Cada bloque contiene información como índice, prueba de trabajo, 

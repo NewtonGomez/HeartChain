@@ -1,4 +1,0 @@
-altgraph==0.17.4
-kybra==0.5.2
-modulegraph==0.19.3
-Terminal-Text-Color==0.3

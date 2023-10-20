@@ -1,0 +1,29 @@
+{
+  "canisters": {
+    "HeartChain_backend": {
+      "main": "src/HeartChain_backend/main.mo",
+      "type": "motoko"
+    },
+    "HeartChain_frontend": {
+      "dependencies": [
+        "HeartChain_backend"
+      ],
+      "frontend": {
+        "entrypoint": "src/HeartChain_frontend/src/index.html"
+      },
+      "source": [
+        "src/HeartChain_frontend/assets",
+        "dist/HeartChain_frontend/"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

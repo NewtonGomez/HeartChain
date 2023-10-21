@@ -1,5 +1,6 @@
 env/
 .vscode/
+.dfx/
 test/
 node_modules/
 src/declarations/

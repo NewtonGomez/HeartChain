@@ -1,9 +1,9 @@
 import Http "mo:base/Http";
 actor {
 
-public func enviarDatos(edad : Text, sexo : Text) : async Text {
+public func enviarDatos(edad : Text, sexo : Text, datos : [Text]) : async Text {
   let url = "http://localhost:5000/procesar_datos";
-  let cuerpo = Http.encodeFormData({ "edad" : edad, "sexo" : sexo });
+  let cuerpo = Http.encodeFormData({ "edad" : edad, "sexo" : sexo , "data":datos});
   
   let respuesta = await Http.post(url, cuerpo);
   

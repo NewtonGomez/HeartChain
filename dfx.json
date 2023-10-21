@@ -1,0 +1,32 @@
+{
+  "canisters": {
+    "CanisterCode_backend": {
+      "main": "src/CanisterCode_backend/main.mo",
+      "type": "motoko"
+    },
+    "CanisterCode_frontend": {
+      "dependencies": [
+        "CanisterCode_backend"
+      ],
+      "frontend": {
+        "entrypoint": "src/CanisterCode_frontend/src/index.html"
+      },
+      "source": [
+        "src/CanisterCode_frontend/assets",
+        "dist/CanisterCode_frontend/"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1,
+  "dependencies": {
+    "mo:base/FileSystem": "0.4.0"
+  }
+}
